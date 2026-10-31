@@ -1,0 +1,13 @@
+# Versions used for the analyses of the manuscript (Python 3.14)
+numpy==2.5.4
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+catboost==1.2.10
+torch==2.14.1
+torch-geometric==2.8.1
+rdkit==2026.09.1
+shap==0.54.1
+umap-learn==0.5.12
+matplotlib==3.11.2
+openpyxl==3.1.5
